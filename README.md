@@ -8,7 +8,7 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
 ## Funções:
-* Login e senha para o funcionário que ficará responsavel pelos emprestimos: Para que sejam feitos registros de qual aluno pegou um livro, qual livro foi pego, em qual data o livro foi emprestado e em qual data ele deverá ser devolvido será necessário a criação de um cadastro tanto para os alunos quanto para funcionários da escola que também possam pegar livros. Além disso também é necessário um cadastro para o funcionário que trabalha na biblioteca para que o registro seja mais assertivo.
+* Login e senha para o funcionário que ficará responsavel pelos emprestimos: 
 
 * Registro de saída e entrada dos livros da biblioteca: Com os usuário cadastrados, no momento do empréstimo é anotado qual livro foi pego pelo utilizador, qual funcionário fez o empréstimo, qual a data de concessão e qual a de devolução
 
