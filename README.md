@@ -2,6 +2,7 @@
 
 Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca
 <!-- Incluir aqui um parágrafo descrevendo o problema abordado -->
+
 <!-- Incluir aqui um parágrafo apresentando a soluço para este problema -->
 
 ## Objetivo do projeto: 
