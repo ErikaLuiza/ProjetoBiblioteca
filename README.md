@@ -12,7 +12,7 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 * Registro de saída e entrada dos livros da biblioteca: Com o gerenciamento de usuários no banco de dados e os livros na biblioteca é possível que 
 
-* Registro de usuários(professores, alunos, funcionários): Para que sejam 
+* Registro de usuários(professores, alunos, funcionários): Para que sejam feitos os empréstimos é necessário que o usuário faça 
 
 * Registro de livros(autor, edição, ano, editora, nome, categoria)
 
