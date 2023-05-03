@@ -23,7 +23,8 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 * Anderson Moreira de Queiroz
 * Erika Luiza Silva Souza
 * Marcos Victor da Gomes
-* Paulo Roberto Gomes de Oliveira
+* Paulo Roberto Gomes de Oliveira!
 * Vitor de Jesus dos Santos
 
 ## Tecnologias utilizadas
+![empresta aí](https://user-images.githubusercontent.com/128754999/236068023-e97d2195-464d-4d22-b571-8ec5dc9014e1.png)
