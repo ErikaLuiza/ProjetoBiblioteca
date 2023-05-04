@@ -17,7 +17,7 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 3 - Falta de controle de acesso à biblioteca 
 
-## Solu
+## Solução
 
 1 - Gerenciar o controle dos livro através de um aplicativo 
 
