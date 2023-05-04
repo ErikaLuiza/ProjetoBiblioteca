@@ -2,6 +2,7 @@
 
 Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca
 <!-- Incluir aqui um parágrafo descrevendo o problema abordado -->
+No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta
 
 <!-- Incluir aqui um parágrafo apresentando a soluço para este problema -->
 
