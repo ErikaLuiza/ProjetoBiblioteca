@@ -6,9 +6,24 @@ No decorrer das aulas na instituição foi observado uma baixa adesão dos aluno
 
 <!-- Incluir aqui um parágrafo apresentando a soluço para este problema -->
 
-## Objetivo do projeto: 
+## Objetivo do projeto:
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
+## Problemas 
+
+1 - Falta de controle de entrada e saida de livros 
+
+2 - Falta de controle do  estoque dos livros 
+
+3 - Falta de controle de acesso à biblioteca 
+
+## Solu
+
+1 - Gerenciar o controle dos livro através de um aplicativo 
+
+2 - Através da aplicação web faremos o controle e gestão do estoque de livros
+
+3 - Através da solução web teremos o controle total do acesso à biblioteca.
 ## Funções:
 * Login e senha para o funcionário que ficará responsavel pelos emprestimos: 
 
@@ -29,19 +44,3 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 ## Tecnologias utilizadas
 ![empresta aí](https://user-images.githubusercontent.com/128754999/236068023-e97d2195-464d-4d22-b571-8ec5dc9014e1.png)
-
-##  Problemas e Solução
-Problemas
-1 - falta de controle de entrada e saida de livros 
-
-2 - Falta de controle do  estoque dos livros 
-
-3 - Falta de controle de acesso à biblioteca 
-
-Solução 
-
-1 - Gerenciar o controle dos livro através de um aplicativo 
-
-2 - Através da aplicação web faremos o controle e gestão do estoque de livros
-
-3 - Através da solução web teremos o controle total do acesso à biblioteca.
