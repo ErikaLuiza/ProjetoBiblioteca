@@ -11,11 +11,11 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 ## Problemas 
 
-1 - Falta de controle de entrada e saida de livros 
+Falta de controle de entrada e saida de livros 
 
-2 - Falta de controle do  estoque dos livros 
+Falta de controle do  estoque dos livros 
 
-3 - Falta de controle de acesso à biblioteca 
+Falta de controle de acesso à biblioteca 
 
 ## Solução
 
