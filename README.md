@@ -19,11 +19,11 @@ Falta de controle de acesso à biblioteca
 
 ## Solução
 
-1 - Gerenciar o controle dos livro através de um aplicativo 
+Gerenciar o controle dos livro através de um aplicativo 
 
-2 - Através da aplicação web faremos o controle e gestão de acervo
+Através da aplicação web faremos o controle e gestão de acervo
 
-3 - Através da solução web teremos o controle total do acesso aos livros.
+Através da solução web teremos o controle total do acesso aos livros.
 ## Funções:
 * Login e senha para o funcionário que ficará responsavel pelos emprestimos: 
 
