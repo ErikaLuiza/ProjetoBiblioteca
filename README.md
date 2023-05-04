@@ -21,9 +21,9 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 1 - Gerenciar o controle dos livro através de um aplicativo 
 
-2 - Através da aplicação web faremos o controle e gestão do estoque de livros
+2 - Através da aplicação web faremos o controle e gestão de acervo
 
-3 - Através da solução web teremos o controle total do acesso à biblioteca.
+3 - Através da solução web teremos o controle total do acesso aos livros.
 ## Funções:
 * Login e senha para o funcionário que ficará responsavel pelos emprestimos: 
 
