@@ -5,18 +5,6 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta
 
 <!-- Incluir aqui um parágrafo apresentando a soluço para este problema -->
-
-## Objetivo do projeto:
-Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
-
-## Problemas 
-
-Falta de controle de entrada e saida de livros 
-
-Falta de controle do  estoque dos livros 
-
-Falta de controle de acesso à biblioteca 
-
 ## Solução
 
 Gerenciar o controle dos livro através de um aplicativo 
@@ -24,6 +12,10 @@ Gerenciar o controle dos livro através de um aplicativo
 Através da aplicação web faremos o controle e gestão de acervo
 
 Através da solução web teremos o controle total do acesso aos livros.
+
+## Objetivo do projeto:
+Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
+
 ## Funções:
 * Login e senha para o funcionário que ficará responsavel pelos emprestimos: 
 
