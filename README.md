@@ -18,10 +18,10 @@ Através da aplicação web faremos o controle e gestão de acervo
 
 Através da solução web teremos o controle total do acesso aos livros.
 
-## Objetivo do projeto:
+# :memo: Objetivo do projeto 
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
-# 🖥️: Funções da aplicação:
+# 🖥️ Funções da aplicação:
 
 - `Registro de usuários(professores, alunos, funcionários)`: Nesse registro é necessário constar informações do usuário como: nome, turma, série, ano no caso de alunos. Para professores é necessário o nome, disciplinas que leciona e matrícula. Para funcionários, nome, cargo, matrícula e endereço.
 
@@ -33,7 +33,7 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 
 - `Login e senha para o funcionário que ficará responsavel pelos emprestimos`: Para ter um melhor rastreio dos livros emprestados é necessário que o funcionário responsável pela biblioteca faça seu login na aplicação para que seja registrado quantos livros ele deu baixa e quantos foram pegos na mão dele, além de ser mais um facilitador na hora filtragem.
 
-# ✒️: Autoria do projeto:
+# ✒️ Autoria do projeto:
 * Anderson Moreira de Queiroz
 * Erika Luiza Silva Souza
 * Marcos Victor da Gomes
