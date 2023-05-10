@@ -2,6 +2,7 @@
 
 Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca e formalizar o controle de acesso a eles.
 <!-- Incluir aqui um parágrafo descrevendo o problema abordado -->
+
 <!-- Continuar o parágrafo descrevendo o problema já iniciado -->
 
 ![biblioteca tradicional](https://user-images.githubusercontent.com/128754477/236854559-d1282719-d41c-4a26-b1b5-64c0ebb0fbc8.png)
@@ -12,6 +13,12 @@ No decorrer das aulas na instituição foi observado uma baixa adesão dos aluno
 
 <!-- Incluir aqui um parágrafo apresentando a solução para este problema -->
 <!-- Transformar os tópicos feitos em parágrafo -->
+<!--Através do nosso sistema o empresta ai, escola vai  Gerenciar o controle dos livro através de sistema web de forma simples, e fácil.
+No sistema  o funcionário da escola  vai conseguir saber quais livros estão disponíveis ou não, através de filtros,auto,gênero,e  a quantidade de livros que tem.
+também através da nossa solução,(empresta aí )vai conseguir também quais os livros os alunos pegou, e quantos livros foi, e que dia pegou,  e qual é o dia da devolução 
+assim evitando o roubo de livros na biblioteca.
+-->
+
 Gerenciar o controle dos livro através de um aplicativo 
 
 Através da aplicação web faremos o controle e gestão de acervo
