@@ -5,7 +5,8 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 
 <!-- Continuar o parágrafo descrevendo o problema já iniciado -->
 
-![biblioteca tradicional](https://user-images.githubusercontent.com/128754477/236854559-d1282719-d41c-4a26-b1b5-64c0ebb0fbc8.png)
+
+![Design sem nome](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/133284482/d9a78b95-daad-4f24-b6f8-9485dfdeb4c1)
 
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta 
 
@@ -13,7 +14,7 @@ No decorrer das aulas na instituição foi observado uma baixa adesão dos aluno
 <!-- Incluir aqui um parágrafo apresentando a solução para este problema -->
 <!-- Transformar os tópicos feitos em parágrafo -->
 
-![empresta aí](https://user-images.githubusercontent.com/128754999/236068023-e97d2195-464d-4d22-b571-8ec5dc9014e1.png)
+
 
 Através do sistema o empresta ai, escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema  o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor,gênero, e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
 
