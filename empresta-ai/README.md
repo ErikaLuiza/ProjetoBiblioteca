@@ -8,7 +8,7 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 ![capa](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/132022659/947ad366-e6c5-4b4d-aabd-1b7c1e20264e)
 
 
-No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta 
+No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta de informação sobre como adquirir temporariamente um livro, e se ele estaria disponivel para adquirilo 
 
 # 📝 Solução
 <!-- Incluir aqui um parágrafo apresentando a solução para este problema -->
@@ -18,11 +18,7 @@ No decorrer das aulas na instituição foi observado uma baixa adesão dos aluno
 
 Através do sistema o empresta ai, escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema  o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor,gênero, e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
 
-Gerenciar o controle dos livro através de um aplicativo 
 
-Através da aplicação web faremos o controle e gestão de acervo
-
-Através da solução web teremos o controle total do acesso aos livros.
 
 # 📚 Objetivo do projeto 
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
