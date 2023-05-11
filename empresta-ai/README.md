@@ -9,15 +9,13 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta 
 
-## Solução
-
+# 📝 Solução
 <!-- Incluir aqui um parágrafo apresentando a solução para este problema -->
 <!-- Transformar os tópicos feitos em parágrafo -->
-<!--Através do nosso sistema o empresta ai, escola vai  Gerenciar o controle dos livro através de sistema web de forma simples, e fácil.
-No sistema  o funcionário da escola  vai conseguir saber quais livros estão disponíveis ou não, através de filtros,auto,gênero,e  a quantidade de livros que tem.
-também através da nossa solução,(empresta aí )vai conseguir também quais os livros os alunos pegou, e quantos livros foi, e que dia pegou,  e qual é o dia da devolução 
-assim evitando o roubo de livros na biblioteca.
--->
+
+![empresta aí](https://user-images.githubusercontent.com/128754999/236068023-e97d2195-464d-4d22-b571-8ec5dc9014e1.png)
+
+Através do sistema o empresta ai, escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema  o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor,gênero, e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
 
 Gerenciar o controle dos livro através de um aplicativo 
 
@@ -25,7 +23,7 @@ Através da aplicação web faremos o controle e gestão de acervo
 
 Através da solução web teremos o controle total do acesso aos livros.
 
-# :memo: Objetivo do projeto 
+# 📚 Objetivo do projeto 
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
 # 🖥️ Funções da aplicação:
@@ -47,5 +45,5 @@ Informar e ter controle dos livros disponíveis para empréstimo na biblioteca a
 * Paulo Roberto Gomes de Oliveira!
 * Vitor de Jesus dos Santos
 
-## Tecnologias utilizadas
-![empresta aí](https://user-images.githubusercontent.com/128754999/236068023-e97d2195-464d-4d22-b571-8ec5dc9014e1.png)
+# 📂 Tecnologias utilizadas
+![image](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/128754477/fd574f2e-db3c-4742-adb8-e3b29d9ee874)
