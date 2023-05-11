@@ -5,8 +5,8 @@ Repositório feito para o projeto de banco de dados voltado para a ideia de regi
 
 <!-- Continuar o parágrafo descrevendo o problema já iniciado -->
 
+![capa](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/132022659/947ad366-e6c5-4b4d-aabd-1b7c1e20264e)
 
-![Design sem nome](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/133284482/d9a78b95-daad-4f24-b6f8-9485dfdeb4c1)
 
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta 
 
