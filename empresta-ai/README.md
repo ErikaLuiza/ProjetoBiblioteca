@@ -1,28 +1,17 @@
 <h1 align="center">Projeto Biblioteca</h1>
 
 Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca e formalizar o controle de acesso a eles.
-<!-- Incluir aqui um parágrafo descrevendo o problema abordado -->
-
-<!-- Continuar o parágrafo descrevendo o problema já iniciado -->
 
 ![capa](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/132022659/ac0b1bc1-de19-4cdc-9b9e-e7ac590dd41b)
-
-
 
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta de informação sobre como adquirir temporariamente um livro, e quais livros que teriam na biblioteca.
 
 # 📝 Solução
-<!-- Incluir aqui um parágrafo apresentando a solução para este problema -->
-<!-- Transformar os tópicos feitos em parágrafo -->
 
-
-
-Através do sistema o empresta ai, escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema  o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor,gênero, e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
-
-
+Através do sistema o empresta ai a escola irá gerenciar o controle dos livro através de sistema web de forma simples e fácil. No sistema o funcionário da escola conseguirá saber quais livros estarão disponíveis ou não, através de filtros, autor, gênero e a quantidade de livros que tem. Também através desse sistema será possível saber quais livros os alunos pegaram, a quantidade emprestada, qual dia o livro foi pego, e qual é o dia da devolução assim evitando a perda de livros da biblioteca e a ocorrência de multas para os usuários.
 
 # 📚 Objetivo do projeto 
-Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
+Informar a disponibilidade e controlar o acesso aos livros que se encontram ofertados na biblioteca da instituição, além de manter um registro dos empréstimos e dos usuários que possuem cadastro no sistema.
 
 # 🖥️ Funções da aplicação:
 
