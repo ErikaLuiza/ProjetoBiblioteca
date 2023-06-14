@@ -2,7 +2,8 @@
 
 Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca e formalizar o controle de acesso a eles.
 
-![capa](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/132022659/ac0b1bc1-de19-4cdc-9b9e-e7ac590dd41b)
+![237835871-ac0b1bc1-de19-4cdc-9b9e-e7ac590dd41b](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/132022659/9e6871ce-5585-40bb-9d29-2ec1f7a8f795)
+
 
 No decorrer das aulas na instituição foi observado uma baixa adesão dos alunos, de todas as turmas, a biblioteca. Alguns dos possíveis fatores analisados foram a ausência de uma plataforma em que sejam feitos os registros de empréstimos dos livros além da falta de informação sobre como adquirir temporariamente um livro, e quais livros que teriam na biblioteca.
 
