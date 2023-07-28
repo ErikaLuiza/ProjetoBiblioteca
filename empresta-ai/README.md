@@ -26,8 +26,10 @@ Informar a disponibilidade e controlar o acesso aos livros que se encontram ofer
 
 - `Login e senha para o funcionário que ficará responsavel pelos emprestimos`: Para ter um melhor rastreio dos livros emprestados é necessário que o funcionário responsável pela biblioteca faça seu login na aplicação para que seja registrado quantos livros ele deu baixa e quantos foram pegos na mão dele, além de ser mais um facilitador na hora filtragem.
 
-# 📚 Modelo do banco de dados:
+# 📚 Modelos do banco de dados:
 ![modelo banco de dados](https://github.com/ErikaLuiza/ProjetoBiblioteca/assets/128754477/bbd6658a-eea1-4ca6-bf8b-c0d9eba9cc33)
+
+![Captura de Tela (16).png](https://github.com/ErikaLuiza/programacao/assets/128754477/cf247172-d3c4-4729-953e-d42a6737e820)
 
 
 # ✒️ Autoria do projeto:
